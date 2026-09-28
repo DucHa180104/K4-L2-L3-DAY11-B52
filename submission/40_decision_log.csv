@@ -1,1 +1,5 @@
 id,date,question,decision,rationale,status
+D01,2026-09-28,Q xử lý box cắt biên fisheye,Đánh dấu truncated = true theo guideline,Box chạm sát biên trái/phải ảnh,approved
+D02,2026-09-28,Q phân định lỗi model vs annotator,Phân loại E4_model_domain cho các ca ảo giác vùng rìa,Sai lệch do biến dạng thấu kính fisheye,approved
+D03,2026-09-28,Q xử lý reference thiếu đối tượng,Ghi nhận ca defect reference và đề xuất escalate,Reference bỏ sót vật thể thực tế trên ảnh,escalated
+D04,2026-09-29,Q đồng bộ nhãn slice chung nhóm,Chốt slice B4-mid và thống nhất quy trình A-B-C,Đảm bảo tính độc lập QA và nhất quán hồ sơ,approved

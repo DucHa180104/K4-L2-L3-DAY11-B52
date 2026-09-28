@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,35,low,Góc nhìn thẳng phía trước tiêu chuẩn
+front,hard,15,medium,Điểm mù cản trước và xe máy cắt ngang
+rear,normal,35,low,Góc camera lùi tiêu chuẩn
+rear,hard,15,medium,Ánh sáng yếu và phản xạ gầm xe
+left,normal,35,low,Vùng hông xe bên trái tiêu chuẩn
+left,hard,15,high,Biến dạng fisheye vùng rìa trái
+right,normal,35,low,Vùng hông xe bên phải tiêu chuẩn
+right,hard,15,high,Biến dạng fisheye vùng rìa phải
