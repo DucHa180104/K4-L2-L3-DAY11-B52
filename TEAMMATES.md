@@ -10,7 +10,7 @@
 - Tên định danh vai A dùng cho --self: LeVinhHung
 - Kênh trao đổi nội bộ: Zalo
 - Đại diện nộp (vai C): Nguyễn Đức Hà, MSSV: 2A202602105
-- Commit chốt bài: https://github.com/DucHa180104/K4-L2-L3-DAY11-B52/commit/7fdeb89
+- Commit chốt bài: https://github.com/DucHa180104/K4-L2-L3-DAY11-B52/tree/main/submission
 
 ## 2. Ba vai chính
 
