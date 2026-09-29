@@ -4,13 +4,13 @@
 
 - Khóa/lớp: L2-2a
 - Tên nhóm: B52
-- Repo Public: https://github.com/VinUni-AI20k/KX-DAY11-B52
+- Repo Public: https://github.com/DucHa180104/K4-L2-L3-DAY11-B52.git
 - Máy giữ hồ sơ chính / người quản lý: Nguyễn Đức Hà
 - Slice chung lấy từ mode.json: B4-mid
 - Tên định danh vai A dùng cho --self: LeVinhHung
 - Kênh trao đổi nội bộ: Zalo
 - Đại diện nộp (vai C): Nguyễn Đức Hà, MSSV: 2A202602105
-- Commit chốt bài: https://github.com/DucHa180104/K4-L2-L3-DAY11-B52.git
+- Commit chốt bài: https://github.com/DucHa180104/K4-L2-L3-DAY11-B52/commit/7fdeb89
 
 ## 2. Ba vai chính
 
